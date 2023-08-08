@@ -1,0 +1,36 @@
+.navbarSub{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+ font-size: 14px;
+ position: fixed !important;
+ top: 0;
+ width: 100%;
+ z-index: 999;
+ background: linear-gradient(to top, transparent 0%, rgb(0,0,0,0.3) 50%);
+
+ &.scrolledSub{
+  transition: all 1.4s ease;
+  background-color: var(--main-color);
+  height: 65px;
+ }
+
+ .left{
+  padding: 15px;
+  img{
+    height: 25px;
+  }
+}
+.rigthSub{
+  padding-right: 30px;
+  margin-top: 6px;
+  button{
+    border-radius: 12px;
+    background-color: #dc3535;
+    color: #fff;
+    font-size: 14px;
+    padding: 10px;
+    text-transform: uppercase;
+  }
+}
+}

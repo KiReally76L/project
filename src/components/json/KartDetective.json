@@ -1,0 +1,89 @@
+[
+{
+ "title": "Воспоминания убийств",
+ "images": "https://pic.uma.media/pic/cardimage/bc/89/bc895c2068aadb35a14c2ba4aba4c2c8.jpg?size=453&quality=90",
+ "id": 1
+},
+{
+  "title": "Забавные игры",
+  "images": "https://pic.uma.media/pic/cardimage/cc/e1/cce1103658bd6272b061303b5b8e6dcf.jpg?size=453&quality=90",
+  "id": 2
+ },
+ {
+  "title": "Бункер",
+  "images": "https://pic.uma.media/pic/cardimage/79/a0/79a02bd786d0d7545ee7dc8ed17d2197.jpg?size=453&quality=90",
+  "id": 3
+ },
+ {
+  "title": "В тихом муте",
+  "images": "https://pic.uma.media/pic/cardimage/85/46/8546ee9408b211c86faa8f85a455054b.jpg?size=453&quality=90",
+  "id": 4
+ },
+ {
+  "title": "Логово монстра",
+  "images": "https://pic.uma.media/pic/cardimage/e6/28/e6284f5957cac856cf9241acaaa77275.jpg?size=453&quality=90",
+  "id": 5
+ },
+{
+  "title": "Лето 84",
+  "images": "https://pic.uma.media/pic/cardimage/d9/a6/d9a64590f524637244cd91198414017f.jpg?size=453&quality=90",
+  "id": 6
+ },
+ {
+  "title": "Мисс Медоуз",
+  "images": "https://pic.uma.media/pic/cardimage/bd/7b/bd7b445a163b5df854a683105cd76caf.jpg?size=453&quality=90",
+  "id": 7
+ },
+ {
+  "title": "Голем",
+  "images": "https://pic.uma.media/pic/cardimage/ef/29/ef29c86df6cf2249b31498445400f639.jpg?size=453&quality=90",
+  "id": 8
+ },
+ {
+  "title": "Висилица",
+  "images": "https://pic.uma.media/pic/cardimage/55/87/5587f499096367fe21655f31503af87d.jpg?size=453&quality=90",
+  "id": 9
+ },
+ {
+  "title": "Истирия",
+  "images": "https://pic.uma.media/pic/cardimage/8c/52/8c5261446b6bf943921c0031ece18353.jpg?size=453&quality=90",
+  "id": 9
+ },
+  {
+    "title": "Антономия Убийства",
+    "images": "https://pic.uma.media/pic/cardimage/e2/26/e2260c00747517c384a4315144e66190.jpg?size=453&quality=90",
+    "ball": "6.2",
+    "id": 11
+  },
+
+  {
+    "title": "Волк",
+    "images": "https://pic.uma.media/pic/cardimage/36/55/365545f29544fc53a7861b2136ede3c5.jpg?size=453&quality=90",
+    "ball": "6.2",
+    "id": 12
+  },
+  {
+    "title": "Мертвое Озеро",
+    "images": "https://pic.uma.media/pic/cardimage/76/2c/762c84ff3b3f09be7d7e95c28181c8ec.jpg?size=453&quality=90",
+    "ball": "6.2",
+    "id": 13
+  },
+  {
+    "title": "Вне себя",
+    "images": "https://pic.uma.media/pic/cardimage/af/12/af121df27f60508a4055449ab108875b.jpg?size=453&quality=90",
+    "ball": "6.2",
+    "id": 14
+  },
+  {
+    "title": "Переводчики",
+    "images": "https://pic.uma.media/pic/cardimage/e3/aa/e3aa7c7b10272dabd11198b045de7f94.jpg?size=453&quality=90",
+    "ball": "6.2",
+    "id": 15
+  },
+  {
+    "title": "Побег из Претории",
+    "images": "https://pic.uma.media/pic/cardimage/9a/25/9a254120512ac201fb4a5624522e645a.jpg?size=453&quality=90",
+    "ball": "6.2",
+    "id": 16
+  }
+]

@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+.homeSub{
+  background-color: var(--main-color);
+  height: 100%;
+  width: 100%;
+  color: #fff;
+
+
+
+  .p-text_Bug{
+    padding-bottom: 60px;
+    margin-top: 60px;
+    p{
+      font-family: "Roboto", sans-serif;
+      font-size: 52px;
+      font-weight: 700;
+      letter-spacing: -0.72px;
+      line-height: 1.14;
+      width: 800px;
+      margin: 0 auto;
+      position: relative;
+      z-index: 1;
+      text-align: center;
+    }
+  }
+  .KartReclama{
+    padding-bottom: 100px;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 33px;
+    margin-left: 63px;
+    margin-right: 69px;
+  }
+
+  .p_content_2{
+    font-family: "Roboto", sans-serif;
+    margin-left: 65px;
+    margin-top: 200px;
+    img{
+      margin-left: 650px;
+      margin-top: -390px;
+    }
+    h2{
+      font-size: 42px;
+      font-weight: 700;
+      line-height: 1.14;
+      width: 395px;
+    }
+    p{
+      color: #8f8f8f;
+      font-size: 19px;
+      font-weight: 400;
+      letter-spacing: -0.43px;
+      line-height: 1.56;
+      width: 421px;
+    }
+  }
+  .p_content-3{
+    font-family: "Roboto", sans-serif;
+    margin-left: 65px;
+    margin-top: 300px;
+    img{
+      margin-left: 592px;
+      margin-top: -389px;
+    }
+    h2{
+      font-size: 42px;
+      font-weight: 700;
+      line-height: 1.14;
+      width: 395px;
+    }
+    p{
+      color: #8f8f8f;
+      font-size: 19px;
+      font-weight: 400;
+      letter-spacing: -0.43px;
+      line-height: 1.56;
+      width: 421px;
+    }
+  }
+  .Tab{
+    margin-top: 100px;
+    h3{
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    font-size: 46px;
+    font-weight: 900;
+    letter-spacing: -.62px;
+    line-height: 1.11;
+    margin-bottom: 12px;
+    margin-top: 0;
+    text-align: center;
+    }
+.Tab_Category{
+  padding-bottom: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+
+}
+  }
+  .prava{
+    color: hsla(0,0%,100%,.6);
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+  }
+}

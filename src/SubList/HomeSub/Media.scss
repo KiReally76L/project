@@ -1,0 +1,188 @@
+@media (max-width: 1440px){
+  .homeSub{
+    .p_content_2{
+      img{
+        margin-left: 569px !important;
+      }
+    }
+  }
+  .sliderFonSub{
+    h3{
+      margin-left: -20px;
+    }
+  }
+}
+
+@media (max-width: 1024px){
+
+ .sliderFonSub{
+  h3{
+    font-size: 60px !important;
+    margin-left: -150px;
+    padding-top: 116px;
+  }
+  p{
+    padding-left: 142px;
+  }
+.BTN_SUB_1{
+  margin-left: -140px !important;
+  padding: 15px 25px !important;
+}
+}
+.homeSub{
+  .KartReclama{
+    display: grid !important;
+    grid-template-columns: repeat(3, 282px) !important;
+    .kartBig{
+      height: 140px;
+      width: 282px;
+    }
+  }
+  .p_content_2{
+    img{
+      margin-left: 499px !important;
+      margin-top: 30px;
+      width: 451px;
+      height: 411px;
+    }
+  }
+  .p_content-3{
+    img{
+      width: 400px;
+      height: 350px;
+      margin-left: 538px !important;
+    }
+  }
+}
+}
+
+@media (max-width: 768px){
+  .rigthSub{
+margin-right: 44px;
+  }
+  .sliderFonSub{
+    position: relative;
+    .Text_Cont{
+      position: absolute;
+      z-index: 1;
+  margin-top: 60px ;
+      h3{
+        font-size: 50px !important;
+        margin-left: 90px;
+        width: 381px !important;
+      }
+      p{
+        padding-left: 705px;
+      }
+    .BTN_SUB_1{
+      margin-left: 50px !important;
+      padding: 15px 25px !important;
+      margin-bottom: 20px;
+    }
+    .BTN_SUB_2 {
+       margin-left: 21px !important;
+       padding: 15px 25px !important;
+       margin-bottom: 20px;
+   }
+    }
+  }
+  .homeSub{
+    .navbarSub{
+      width: 96% !important;
+    }
+    .KartReclama{
+      display: grid !important;
+      grid-template-columns: repeat(3, 282px) !important;
+      .kartBig{
+        height: 140px;
+        width: 282px;
+      }
+    }
+    .p_content_2{
+      img{
+        margin-left: 499px !important;
+        margin-top: 30px;
+        width: 451px;
+        height: 411px;
+      }
+    }
+    .p_content-3{
+      img{
+        width: 400px;
+        height: 350px;
+        margin-left: 538px !important;
+      }
+    }
+    .p-text_Bug{
+      p{
+        font-size: 40px !important;
+      }
+    }
+    .KartReclama{
+      padding-left: 37px;
+      display: grid !important;
+      grid-template-columns: repeat(2, 282px) !important;
+      .kartBig{
+        height: 140px;
+        width: 282px;
+      }
+    }
+    .p_content_2{
+      margin-top: 70px !important;
+      p{
+        width: 693px !important;
+        padding-left: 52px;
+        padding-top: 20px;
+      }
+     h2{
+      width: 597px !important;
+      font-size: 50px !important;
+      margin-top: -20px;
+      padding-left: 45px;
+     }
+      img{
+        margin-left: 97px !important;
+        margin-top: 30px !important;
+        width: 600px;
+        height: 456px;
+      }
+    }
+    .p_content-3{
+      margin-top: 97px !important;
+      p{
+        width: 693px !important;
+        padding-left: 52px;
+        padding-top: 20px;
+      }
+     h2{
+      width: 500px !important;
+      font-size: 50px !important;
+      margin-top: -20px;
+      margin-left: 48px;
+     }
+      img{
+        margin-left: -5px !important;
+        margin-top: 30px !important;
+        width: 630px;
+        height: 456px;
+      }
+    }
+    .Tab{
+      h3{
+        font-size: 40px !important;
+      }
+      .Tab_Category{
+   .Tab_Content{
+    display: grid !important;
+    grid-template-columns: repeat(2, auto) !important;
+    margin-left: -25px;
+   }
+      }
+
+    }
+    .prava{
+      margin-top: -100px;
+    }
+  }
+}
+

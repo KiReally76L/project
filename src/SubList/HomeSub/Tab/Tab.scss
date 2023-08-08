@@ -1,0 +1,257 @@
+.Tab_Content{
+  display: flex;
+  .container_Tab_1{
+    padding-bottom: 100px;
+    margin-top: 35px;
+    margin-left: 35px;
+    background: #1b1b1b;
+    border-radius: 32px;
+    cursor: pointer;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 200px;
+  
+    b{
+      position: absolute;
+  padding-top: 48px;
+  font-size: 63px;
+  margin-left: -51px;
+  background: linear-gradient(
+    to right,
+    #7953cd 20%,
+    #00affa 30%,
+    #0190cd 70%,
+    #764ada 80%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  background-size: 500% auto;
+  animation: textShine 5s ease-in-out infinite alternate;
+  
+  @keyframes textShine {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+  }
+  p{
+    width: 200px;
+    display: block;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 4px;
+      margin-left: 24px;
+      margin-top: 24px;
+      position: relative;
+      z-index: 1;
+    }
+    span{
+      color: grey;
+      font-size: 15px;
+      font-weight: 500;
+      line-height: 16px;
+      margin-left: 24px;
+      position: relative;
+    }
+  }
+  
+  .container_Tab_2{
+    padding-bottom: 100px;
+    margin-top: 35px;
+    margin-left: 35px;
+    background: #1b1b1b;
+    border-radius: 32px;
+    cursor: pointer;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 200px;
+  
+    b{
+      position: absolute;
+  padding-top: 48px;
+  font-size: 63px;
+  margin-left: -100px;
+  background: linear-gradient(
+    to right,
+    #74cd53 20%,
+    #00fabb 30%,
+    #15cd01 70%,
+    #167104 80%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  background-size: 500% auto;
+  animation: textShine 5s ease-in-out infinite alternate;
+  
+  @keyframes textShine {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+  }
+  p{
+    width: 200px;
+    display: block;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 4px;
+      margin-left: 24px;
+      margin-top: 24px;
+      position: relative;
+      z-index: 1;
+    }
+    span{
+      color: grey;
+      font-size: 15px;
+      font-weight: 500;
+      line-height: 16px;
+      margin-left: 24px;
+      position: relative;
+    }
+  }
+  
+  .container_Tab_3{
+    padding-bottom: 100px;
+    margin-top: 35px;
+    margin-left: 35px;
+    background: #1b1b1b;
+    border-radius: 32px;
+    cursor: pointer;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 200px;
+  
+    b{
+      position: absolute;
+  padding-top: 48px;
+  font-size: 63px;
+  margin-left: -100px;
+  background: linear-gradient(
+    to right,
+    #9453cd 20%,
+    #fa0068 30%,
+    #cd0148 70%,
+    #da4a90 80%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  background-size: 500% auto;
+  animation: textShine 5s ease-in-out infinite alternate;
+  
+  @keyframes textShine {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+  }
+  p{
+    width: 200px;
+    display: block;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 4px;
+      margin-left: 24px;
+      margin-top: 24px;
+      position: relative;
+      z-index: 1;
+    }
+    span{
+      color: grey;
+      font-size: 15px;
+      font-weight: 500;
+      line-height: 16px;
+      margin-left: 24px;
+      position: relative;
+    }
+  }
+  
+  .container_Tab_4{
+    padding-bottom: 100px;
+    margin-top: 35px;
+    margin-left: 35px;
+    background: #1b1b1b;
+    border-radius: 32px;
+    cursor: pointer;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 200px;
+  
+    b{
+      position: absolute;
+  padding-top: 48px;
+  font-size: 63px;
+  margin-left: -100px;
+  background: linear-gradient(
+    to right,
+    #f22a2a 20%,
+    #fa1d00 30%,
+    #f9f003 70%,
+    #d4ff00 80%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  background-size: 500% auto;
+  animation: textShine 5s ease-in-out infinite alternate;
+  
+  @keyframes textShine {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+  }
+  p{
+    width: 200px;
+    display: block;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 4px;
+      margin-left: 24px;
+      margin-top: 24px;
+      position: relative;
+      z-index: 1;
+    }
+    span{
+      color: grey;
+      font-size: 15px;
+      font-weight: 500;
+      line-height: 16px;
+      margin-left: 24px;
+      position: relative;
+    }
+  }
+  .activeCatg{
+    transition: transform .4s ease-in-out;
+    &:hover{
+      transform: scale(1.1);
+    }
+  }
+}
+

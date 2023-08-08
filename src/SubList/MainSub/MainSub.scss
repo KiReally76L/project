@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+.sliderFonSub{
+  h3{
+    color: #fff;
+    font-size: 72px;
+    width: 769px;
+    font-weight: 900;
+    margin-top: -472px;
+  }
+  p{
+    font-family: 'Roboto', sans-serif;
+ font-weight: 500;
+    font-size: 28px;
+   color: #fff;
+    margin-left: -706px;
+  }
+  .BTN_SUB_1{
+    font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+    font-weight: 700;
+    margin-right: 25px;
+    margin-left: -235px;
+    height: 64px;
+    letter-spacing: .83px;
+    line-height: 1.5;
+    padding: 20px 60px;
+    background-color: #0fb4b4;
+    color: #fff;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 15px;
+  }
+  .BTN_SUB_2{
+    font-family: 'Roboto', sans-serif;
+        color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    height: 64px;
+    background-color:  #7a7a7a;
+    letter-spacing: .83px;
+    border-radius: 15px;
+    text-transform: uppercase;
+    line-height: 1.5;
+    padding: 20px 40px;
+  }
+  .Tenu{
+  position: relative;
+    .tyman_1{
+      background-color: var(--main-color);
+      box-shadow: 0px 0px 75px 134px var(--main-color);
+      width: 100%;
+      height: 30px;
+      position: absolute;
+    }
+  }
+}

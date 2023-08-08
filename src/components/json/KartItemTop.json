@@ -1,0 +1,112 @@
+[
+    {
+      "title": "Прошлые жизни",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50466201-2448230.jpg",
+      "ball": "7.2",
+      "id": 1
+    },
+    {
+      "title": "Паутина вселенных",
+      "images": "https://www.themoviedb.org/t/p/w220_and_h330_face/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "ball": "6.8",
+      "id": 2
+    },
+    {
+      "title": "Как приручить дракона",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/1628540-1750248.jpg",
+      "ball": "7,4",
+      "id": 3
+    },
+    {
+      "title": "Кто убил BlackBerry",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50478612-2491821.jpeg",
+      "ball": "6.4",
+      "id": 4
+    },
+    {
+      "title": "Снегирь",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/49736106-2436963.jpeg",
+      "ball": "6.8",
+      "id": 5
+    },
+    {
+      "title": "Оппенгеймер",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/49816692-2572168.jpeg",
+      "ball": "7,1",
+      "id": 6
+    },    {
+      "title": "Выживший",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/5444239-1436428.jpg",
+      "ball": "4.5",
+      "id": 7
+    },    {
+      "title": "Зверогонщики",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50532995-2504010.jpeg",
+      "ball": "4.7",
+      "id": 8
+    },    {
+      "title": "Царь обезьян 3",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/36493175-1029373.jpg",
+      "ball": "8.0",
+      "id": 9
+    },    {
+      "title": "Ухожу красиво",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50527658-2545985.jpg",
+      "ball": "7.8",
+      "id": 10
+    },{
+      "title": "Терапия",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50434048-2449046.jpg",
+      "ball": "6.8",
+      "id": 11
+    }, {
+      "title": "Угроза",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50444567-2423370.jpg",
+      "ball": "7,2",
+      "id": 12
+    }, {
+      "title": "Малышка на драйве",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50594444-2548340.jpeg",
+      "ball": "7,3",
+      "id": 13
+    }, {
+      "title": "Охота",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50391092-2474378.jpeg",
+      "ball": "6.7",
+      "id": 14
+    }, {
+      "title": "Переводчик",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50445515-2574275.jpg",
+      "ball": "5.9",
+      "id": 15
+    }, {
+      "title": "Блуждающая Земля",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50474808-2433510.jpeg",
+      "ball": "7.7",
+      "id": 16
+    }, 
+    {
+      "title": "Моя Пиратская свадьба",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/49650682-2390928.jpeg",
+      "ball": "6.6",
+      "id": 17
+    }, 
+    {
+      "title": "Пушпа: Восхождение",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/49907436-2340318.jpg",
+      "ball": "8.2",
+      "id": 18
+    }, 
+    {
+      "title": "Велма",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50398122-2384671.jpg",
+      "ball": "7.2",
+      "id": 19
+    }, 
+    {
+      "title": "The inseparables",
+      "images": "https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50613242-2571150.jpg",
+      "ball": "7.6",
+      "id": 20
+    }
+  ]

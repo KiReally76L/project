@@ -1,0 +1,31 @@
+@media(max-width: 1042px){
+  .navbar{
+    .container{
+      .right{
+        padding-right: 135px;
+      }
+    }
+  }
+  .home{
+    .ListSlider{
+      margin-top: -167px;
+    }
+  }
+  .info{
+    .desc{
+      margin-top: -327px !important;
+      width: 520px;
+    }
+    .buttons{
+      button{
+        width: 340px;
+      }
+    }
+  }
+}
+
+@media(max-width: 768px){
+  .buttons{
+ margin-left: 76px !important;
+  }
+}

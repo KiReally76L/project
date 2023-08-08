@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+.navbar{
+  color: white;
+ font-size: 14px;
+ position: fixed !important;
+ top: 0;
+ width: 100%;
+ z-index: 999;
+ background: linear-gradient(to top, transparent 0%, rgb(0,0,0,0.3) 50%);
+
+ &.scrolled{
+  transition: all 1.4s ease;
+  background-color: var(--main-color);
+ }
+   .container{
+    display: flex;
+    margin-left: 25px;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+
+    .left{
+      display: flex;
+      align-items: center;
+      img{
+        height: 25px;
+        margin-right: 40px;
+      }
+ ul{
+  display: flex;
+  li{
+      padding-top: 10px;
+      font-size: 14px;
+      margin-right: 20px;
+      cursor: pointer;
+      transition: all .3s ease-out;
+
+      &:hover{
+        color: gray;
+        transform: translateY(-3px);
+      }
+    }
+  }
+    }
+  .right{
+    display: flex;
+    margin-right: -155px;
+    align-items: center;
+    .icon{
+      margin: 0px 15px;
+      height: 35px;
+      cursor: pointer;
+    }
+    img{
+      width: 30px;
+      height: 30px;
+      border-radius: 5px;object-fit: cover;
+      cursor: pointer;
+    }
+    .profile{
+      .options{
+        display: none;
+        border-radius: 5px;
+        transition: display .6s ease-in-out, background-color .6s ease-in-out;
+      }
+      span{
+        padding: 10px;
+        cursor: pointer;
+        transition: all .5s ease;
+        
+    &:hover{
+      transform: translateX(5px);
+    }
+      }
+      &:hover{
+        .options{
+          background-color: #000;
+          display: flex;
+          flex-direction: column;
+          position: absolute;
+        }
+      }
+    }
+  }
+   }
+}
